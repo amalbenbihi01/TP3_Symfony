@@ -6,7 +6,7 @@ Transformer un formulaire HTML en formulaire Symfony en utilisant :
 - Form Types
 - Contrôleur Symfony
 ## travail realisée 
--Création d'un formulaire symfony 
--Protection CSRF activée
--Traitement de formulaire au niveau du controller 
--Utilisation du Twig pour afficher le produit
+- Création d'un formulaire symfony 
+- Protection CSRF activée
+- Traitement de formulaire au niveau du controller 
+- Utilisation du Twig pour afficher le produit
